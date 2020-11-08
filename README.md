@@ -2,7 +2,7 @@
 
 Learning Objectives of Project
 
-• To understand the concept of SYSTEM--‐LEVEL design by identifying the subsystems needed to compose the prototype of an impedancerespirometer.
+• To understand the concept of system-level design by identifying the subsystems needed to compose the prototype of an impedancerespirometer.
 
 • To build part of a prototype impedometric pneumometer on a stripboard by populating it with electronic components and soldering themin to the correct place. This aims at developing practical development, isntrumentation & debugging skills.
 
